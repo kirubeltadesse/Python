@@ -1,15 +1,44 @@
+# kirubel Tadesse
+# Dr.Gordon Skelton
+# J00720834
+# Applied Programming 
+# Jackson State University
+# Computer Engineering Dept.
+
+
+# Write a program that uses the same file. Have that program produce the largest and smallest value from the file.  You can just modify the program in No. 6 above to solve this problem.
+
 import pandas as pd
-import numpy as np
+# import numpy as np
 
-path = '/home/aniekan/Downloads/numbers.csv'
-k = pd.read_csv(path, header = None)
-#print(k)
-#print(len(k))
-#for i, row in k.iterrows():
-#    print(i)
+# I have transposed the numbers.csv and resaved it as numbers2.csv
+path = '/home/aniekan/Downloads/numbers2.csv'
 
-#for i in k:
-#s = pd.Series(k, index=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17])
-#print(s)
-df = pd.DatarFrame(k)
-df
+# reading data from the file
+df = pd.read_csv(path, names =['Data'] )
+
+largest = df.max()
+smallest = df.min()
+
+#producing the largest value
+print'The largest value is: ', largest 
+
+#producing the smallest value
+print'The smallest value is: ', smallest 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
