@@ -1,4 +1,10 @@
-Yu should use a Jupyter Notebook, please use print() and not the default output from Jupyter, for your answers to the programming questions.  For the other answers, you can just complete them in this Word Document.  The questions all refer to Python.
+# Python data analysis and visualization using pandas
+
+This repository is a programming assignment that using Python and pandas library for Applied programming (CSC 552-01) class
+
+
+You should use a Jupyter Notebook, please use print() and not the default output from Jupyter, for your answers to the programming questions.  For the other answers, you can just complete them in this Word Document.  The questions all refer to Python.
+
 
 1. List the arithmetic operators and their meaning.
 + Addition (+) Adds values on either side of the operator. a + b = 30
