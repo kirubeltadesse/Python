@@ -1,6 +1,6 @@
 # Python data analysis and visualization using pandas
 
-This repository is a programming assignment that using Python and pandas library for Applied programming (CSC 552-01) class
+This repository is a programming assignment for Applied programming (CSC 552-01) class
 
 
 You should use a Jupyter Notebook, please use print() and not the default output from Jupyter, for your answers to the programming questions.  For the other answers, you can just complete them in this Word Document.  The questions all refer to Python.
