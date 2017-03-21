@@ -1,4 +1,4 @@
-You should use a Jupyter Notebook, please use print() and not the default output from Jupyter, for your answers to the programming questions.  For the other answers, you can just complete them in this Word Document.  The questions all refer to Python.
+Yu should use a Jupyter Notebook, please use print() and not the default output from Jupyter, for your answers to the programming questions.  For the other answers, you can just complete them in this Word Document.  The questions all refer to Python.
 
 1. List the arithmetic operators and their meaning.
 + Addition (+) Adds values on either side of the operator. a + b = 30
@@ -44,7 +44,7 @@ Answer => examq->q6.py
 7. Write a program that uses the same file.  Have that program produce the largest and smallest value from the file.  You can just modify the program in No. 6 above to solve this problem.
 
 ```
-Answer => examq->q6.py
+Answer => examq->q7.py
 ```
 
 
