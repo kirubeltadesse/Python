@@ -21,10 +21,10 @@ largest = df.max()
 smallest = df.min()
 
 #producing the largest value
-print'The largest value is: ', largest 
+print('The largest value is: ', largest) 
 
 #producing the smallest value
-print'The smallest value is: ', smallest 
+print('The smallest value is: ', smallest) 
 
 
 
